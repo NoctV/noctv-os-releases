@@ -24,8 +24,8 @@
 
 <br/><br/>
 
-[![Последняя версия](https://img.shields.io/github/v/release/NoctV/noctv-os-releases?style=flat-square&label=версия&color=8b5cf6)](https://github.com/NoctV/noctv-os-releases/releases/latest)
-[![Дата](https://img.shields.io/github/release-date/NoctV/noctv-os-releases?style=flat-square&label=обновлено&color=0ea5e9)](https://github.com/NoctV/noctv-os-releases/releases/latest)
+[![Последний релиз](https://img.shields.io/badge/релизы-последняя%20версия-8b5cf6?style=flat-square&logo=github)](https://github.com/NoctV/noctv-os-releases/releases/latest)
+![Автообновления](https://img.shields.io/badge/автообновления-включены-0ea5e9?style=flat-square)
 [![Загрузки](https://img.shields.io/github/downloads/NoctV/noctv-os-releases/total?style=flat-square&label=загрузки&color=22c55e)](https://github.com/NoctV/noctv-os-releases/releases)
 ![Windows 10/11](https://img.shields.io/badge/Windows-10%20%7C%2011-0078D6?style=flat-square&logo=windows&logoColor=white)
 
